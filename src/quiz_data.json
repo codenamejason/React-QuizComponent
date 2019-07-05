@@ -10,7 +10,13 @@
       "id": 2,
       "instruction_text": "What's your favorite number?",
       "answer_options": ["1", "2", "3", "4"],
-      "answer": "4"
+      "answer": "1"
+    },
+    {
+      "id": 3,
+      "instruction_text": "What is the presidents first name",
+      "answer_options": ["Ronald", "Reginald", "Donald", "Donny"],
+      "answer": "Donald"
     }
   ]
 }
