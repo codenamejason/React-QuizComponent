@@ -2,14 +2,14 @@
   "quiz_questions": [
     {
       "id": 1,
-      "instruction_text": "How many continents are there on Planet Earth?",
-      "answer_options": ["5", "6", "7", "8"],
+      "instruction_text": "How many continents are there on Planet Earth",
+      "answer_options": [ "8", "5", "7", "6"],
       "answer": "7"
     },
     {
       "id": 2,
-      "instruction_text": "What's your favorite number?",
-      "answer_options": ["1", "2", "3", "4"],
+      "instruction_text": "What's is (4 + 2) - 5",
+      "answer_options": [ "2","1", "3", "4"],
       "answer": "1"
     },
     {
